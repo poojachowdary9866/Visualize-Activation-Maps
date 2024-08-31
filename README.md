@@ -3,7 +3,7 @@ visualizing activation maps of age and gender detector
 ## To get activation map run this model:
 1. Clone this repository
 2. Replace image link with your image link
-3. Run the [gui.py](https://github.com/poojachowdary9866/Visualize-Activation-Maps/blob/main/Visualize%20Activation%20Maps.ipynb) file
+3. Run the [vizualise Activation map.ipynb](https://github.com/poojachowdary9866/Visualize-Activation-Maps/blob/main/Visualize%20Activation%20Maps.ipynb) file
 4. View results
 
 ## To Run this Model yourself:
@@ -13,7 +13,7 @@ visualizing activation maps of age and gender detector
 4. Open the [Model jupyter notebook](https://github.com/poojachowdary9866/Visualize-Activation-Maps/blob/main/model-1.ipynb)
 5. Run this notebook
 6. Replace image link with your image link
-7. Run the [Activtion Map](https://github.com/poojachowdary9866/Age-Gender-Detection/blob/main/gui.py) file
+7. Run the [vizualise Activation map.ipynb](https://github.com/poojachowdary9866/Visualize-Activation-Maps/blob/main/Visualize%20Activation%20Maps.ipynb) file
 8. View results
 
 ## Image and its Activation Map:
