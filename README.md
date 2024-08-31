@@ -8,7 +8,7 @@ visualizing activation maps of age and gender detector
 
 ## To Run this Model yourself:
 1. Clone this repository
-2. Download the dataset rom [Here](https://www.kaggle.com/datasets/jangedoo/utkface-new)
+2. Download the dataset from [Here](https://www.kaggle.com/datasets/jangedoo/utkface-new)
 3. Extract the dataset to your repository folder.
 4. Open the [Model jupyter notebook](https://github.com/poojachowdary9866/Visualize-Activation-Maps/blob/main/model-1.ipynb)
 5. Run this notebook
